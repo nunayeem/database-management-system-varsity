@@ -1,0 +1,9 @@
+INSERT INTO `categories` (`CategoryID`, `CategoryName`, `Description`) VALUES
+(1, 'Beverages ', 'Soft drinks, coffees, teas, beers, and ales \r\n'),
+(2, 'Condiments ', 'Sweet and savory sauces, relishes, spreads, and seasonings \r\n'),
+(3, 'Confections ', 'Desserts, candies, and sweet breads \r\n'),
+(4, 'Dairy Products 	', 'Cheeses '),
+(5, 'Grains/Cereals 	', 'Breads, crackers, pasta, and cereal \r\n'),
+(6, 'Meat/Poultry 	', 'Prepared meats \r\n'),
+(7, 'Produce ', 'Dried fruit and bean curd \r\n'),
+(8, 'Seafood ', 'Seaweed and fish ');
