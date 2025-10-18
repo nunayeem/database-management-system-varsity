@@ -1,0 +1,9 @@
+CREATE TABLE customers(
+    CustomerID int PRIMARY KEY AUTO_INCREMENT,
+    CustomerName varchar(255) NOT NULL,
+    ContactName varchar(255),
+    Address Text,
+    City varchar(200),
+    PostalCode varchar(100),
+    Country Varchar(200) DEFAULT 'Bangladesh'
+);
